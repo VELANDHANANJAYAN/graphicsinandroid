@@ -101,7 +101,7 @@ import android.widget.ImageView; public class MainActivity
 
 ## OUTPUT
 
-![WhatsApp Image 2024-04-27 at 19 07 43_c6dd5c0e](https://github.com/VISHVA12300/graphicsinandroid/assets/119404426/88cab2b6-0074-4e2a-a09f-fc9b9ca8f3e3)
+![IMG-20240509-WA0025](https://github.com/VELANDHANANJAYAN/graphicsinandroid/assets/119405038/7da260f6-809b-4d41-af5e-981157dd4fa9)
 
 
 
